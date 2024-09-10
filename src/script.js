@@ -47,9 +47,6 @@ guessBtn.addEventListener('click', () => {
 
 });
 
-rectangle.addEventListener('click', () => {
-    resetGame();
-})
 
 // Function to reset the game
 function resetGame() {
